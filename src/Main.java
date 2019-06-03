@@ -35,6 +35,7 @@ class Main {
         }
 
 
+
         //calculating
         for (int i=0;i<n;i++){
             out[i][0] = monthCost[i][0];
@@ -92,3 +93,4 @@ class Main {
     }
 };
 
+//
